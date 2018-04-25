@@ -1,0 +1,1 @@
+input = document.getElementById("input")

@@ -1,0 +1,40 @@
+body,html {
+	margin:0px;
+	background:#001132;
+	overflow:hidden;
+	font:130% Arial;
+	color:white;
+	text-align:center;
+}
+
+h1 {
+	color:#0558ff;
+}
+
+#question {
+	margin-top: 15%;
+}
+	
+#input {
+	display: inline-block;
+	margin-top:10%;
+	font:30px Arial;
+	padding:2px;
+	width:20%;
+	background:transparent;
+	border:3px solid #0558ff;
+	outline:none;
+	color:white;
+	text-align:center;
+}
+
+button {
+	margin-left:2px;
+	display: inline-block;
+	padding:2px;
+	font:30px Arial;
+	color:black;
+	background:#0558ff;
+	border:3px solid #0558ff;
+
+}
