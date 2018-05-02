@@ -11,7 +11,23 @@ h1 {
 	color:#0558ff;
 }
 
+h4 {
+	color:#820505;
+	margin:0px;
+	margin-top: 5%;
+}
 
+select {
+	background:#001132;
+	color:white;
+	outline:none;
+	border:3px solid #0558ff;
+	font:70% Arial;
+	margin:5px;
+}
+option {
+	background:transparent;
+}
 
 #question {
 	margin-top: 15%;
@@ -19,9 +35,9 @@ h1 {
 	
 #input {
 	display: inline-block;
-	margin-top:10%;
 	font:30px Arial;
 	padding:2px;
+
 	width:20%;
 	background:transparent;
 	border:3px solid #0558ff;
