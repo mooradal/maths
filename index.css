@@ -24,6 +24,7 @@ select {
 	border:3px solid #0558ff;
 	font:70% Arial;
 	margin:5px;
+	padding:2px;
 }
 option {
 	background:transparent;
